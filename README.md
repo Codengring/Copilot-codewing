@@ -1,6 +1,6 @@
 # wingcode
 
-This copilot helps you in your day to day coding task like writing basic code snipetts.
+The copilot is designed to provide help in coding tasks.
 
 ## Requirements
 No external requirement
